@@ -7,9 +7,9 @@
 body {
     overflow-x: hidden;
 	background-image: url('img/bg-home.jpg');
-  	background-repeat: no-repeat;
+  	//background-repeat: no-repeat;
     background-attachment: fixed;
-  	background-size: 100%;
+  	background-size: cover;
 }
 
 p {
