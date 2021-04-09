@@ -9,13 +9,13 @@ This project contains the source code for the https://www.jsteenkamp.com site. I
 * In this directory, execute the command:
 
 ```
-sudo bundle exec jekyll serve
+bundle exec jekyll serve
 ```
 
 You should now be able to browse the site at http://localhost:4000. Once you are happy with the results, you can build the project with: 
 
 ```
-sudo bundle exec jekyll build
+bundle exec jekyll build
 ```
 
 This will generate the site content to the `_site` sub directory. This can be uploaded to your host of choice.

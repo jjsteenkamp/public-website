@@ -1,2 +1,5 @@
 /.project
 /_site/
+*.iml
+/.idea
+/.jekyll-cache
