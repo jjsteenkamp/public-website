@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2020-05-15
+date: 2022-01-10
 img: devworx.png
 alt: image-alt
 description: Enterprise Software Development and Professional Services. My company through which I offer software consulting services. Take advantage of my experience, built up laboriously over the course of many years, industries and projects. Make your next project a success. Visit the website - <b><a href="https://www.devworx.co.uk">https://www.devworx.co.uk</a></b>

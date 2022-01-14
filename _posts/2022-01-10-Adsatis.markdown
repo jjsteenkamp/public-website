@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2020-05-14
+date: 2022-01-10
 img: adsatis.png
 alt: image-alt
 description: Adsatis is a niche financial markets management consultancy based in London, with an international delivery capability. Currently providing on-site data engineering consultancy services for Adsatis clients. Visit the website - <b><a href="http://www.adsatis.com/">http://www.adsatis.com/</></b>
